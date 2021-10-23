@@ -1,0 +1,4 @@
+﻿Operación Compilar iniciada..
+1>------ Operación Compilar iniciada: proyecto: proyectografico1, configuración: Debug Any CPU ------
+1>C:\Users\GusGus\Downloads\proyectografico1-20211019T195256Z-001\proyectografico1\proyectografico1\Escenario.cs(21,16,21,25): error CS0111: El tipo 'Escenario' ya define un miembro denominado 'Escenario' con los mismos tipos de parámetro
+========== Compilar: 0 correctos, 1 incorrectos, 0 actualizados, 0 omitidos ==========

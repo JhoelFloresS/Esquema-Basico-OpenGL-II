@@ -1,0 +1,36 @@
+C:\Users\jhoel\Documents\SharpDevelop Projects\proyectografico1\proyectografico1\bin\Debug\proyectografico1.exe.config
+C:\Users\jhoel\Documents\SharpDevelop Projects\proyectografico1\proyectografico1\bin\Debug\proyectografico1.exe
+C:\Users\jhoel\Documents\SharpDevelop Projects\proyectografico1\proyectografico1\bin\Debug\proyectografico1.pdb
+C:\Users\jhoel\Documents\SharpDevelop Projects\proyectografico1\proyectografico1\bin\Debug\OpenTK.dll
+C:\Users\jhoel\Documents\SharpDevelop Projects\proyectografico1\proyectografico1\obj\Debug\proyectografico1.exe
+C:\Users\jhoel\Documents\SharpDevelop Projects\proyectografico1\proyectografico1\obj\Debug\proyectografico1.pdb
+C:\Users\jhoel\Documents\SharpDevelop Projects\proyectografico1\proyectografico1\bin\Debug\OpenTK.pdb
+C:\Users\jhoel\Documents\SharpDevelop Projects\proyectografico1\proyectografico1\bin\Debug\OpenTK.xml
+C:\Users\jhoel\Documents\SharpDevelop Projects\proyectografico1\proyectografico1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jhoel\Documents\SharpDevelop Projects\proyectografico1\proyectografico1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhoel\Documents\SharpDevelop Projects\proyectografico1\proyectografico1\obj\Debug\proyectografico1.csprojResolveAssemblyReference.cache
+C:\Users\GusGus\Downloads\proyectografico1-20211019T195256Z-001\proyectografico1\proyectografico1\obj\Debug\proyectografico1.csproj.SuggestedBindingRedirects.cache
+C:\Users\GusGus\Downloads\proyectografico1-20211019T195256Z-001\proyectografico1\proyectografico1\obj\Debug\proyectografico1.csproj.CoreCompileInputs.cache
+C:\Users\GusGus\Downloads\proyectografico1-20211019T195256Z-001\proyectografico1\proyectografico1\obj\Debug\proyectografico1.csproj.AssemblyReference.cache
+C:\Users\GusGus\Downloads\proyectografico1-20211019T195256Z-001\proyectografico1\proyectografico1\bin\Debug\proyectografico1.exe.config
+C:\Users\GusGus\Downloads\proyectografico1-20211019T195256Z-001\proyectografico1\proyectografico1\bin\Debug\proyectografico1.exe
+C:\Users\GusGus\Downloads\proyectografico1-20211019T195256Z-001\proyectografico1\proyectografico1\bin\Debug\proyectografico1.pdb
+C:\Users\GusGus\Downloads\proyectografico1-20211019T195256Z-001\proyectografico1\proyectografico1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\GusGus\Downloads\proyectografico1-20211019T195256Z-001\proyectografico1\proyectografico1\bin\Debug\OpenTK.dll
+C:\Users\GusGus\Downloads\proyectografico1-20211019T195256Z-001\proyectografico1\proyectografico1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\GusGus\Downloads\proyectografico1-20211019T195256Z-001\proyectografico1\proyectografico1\bin\Debug\OpenTK.pdb
+C:\Users\GusGus\Downloads\proyectografico1-20211019T195256Z-001\proyectografico1\proyectografico1\bin\Debug\OpenTK.xml
+C:\Users\GusGus\Downloads\proyectografico1-20211019T195256Z-001\proyectografico1\proyectografico1\obj\Debug\proyectografico1.csproj.CopyComplete
+C:\Users\GusGus\Downloads\proyectografico1-20211019T195256Z-001\proyectografico1\proyectografico1\obj\Debug\proyectografico1.exe
+C:\Users\GusGus\Downloads\proyectografico1-20211019T195256Z-001\proyectografico1\proyectografico1\obj\Debug\proyectografico1.pdb
+C:\Users\jhoel\Downloads\proyectografico1-20211021T214552Z-001\proyectografico1\proyectografico1\bin\Debug\proyectografico1.exe.config
+C:\Users\jhoel\Downloads\proyectografico1-20211021T214552Z-001\proyectografico1\proyectografico1\bin\Debug\proyectografico1.exe
+C:\Users\jhoel\Downloads\proyectografico1-20211021T214552Z-001\proyectografico1\proyectografico1\bin\Debug\proyectografico1.pdb
+C:\Users\jhoel\Downloads\proyectografico1-20211021T214552Z-001\proyectografico1\proyectografico1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jhoel\Downloads\proyectografico1-20211021T214552Z-001\proyectografico1\proyectografico1\bin\Debug\OpenTK.dll
+C:\Users\jhoel\Downloads\proyectografico1-20211021T214552Z-001\proyectografico1\proyectografico1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhoel\Downloads\proyectografico1-20211021T214552Z-001\proyectografico1\proyectografico1\bin\Debug\OpenTK.pdb
+C:\Users\jhoel\Downloads\proyectografico1-20211021T214552Z-001\proyectografico1\proyectografico1\bin\Debug\OpenTK.xml
+C:\Users\jhoel\Downloads\proyectografico1-20211021T214552Z-001\proyectografico1\proyectografico1\obj\Debug\proyectografico1.csprojResolveAssemblyReference.cache
+C:\Users\jhoel\Downloads\proyectografico1-20211021T214552Z-001\proyectografico1\proyectografico1\obj\Debug\proyectografico1.exe
+C:\Users\jhoel\Downloads\proyectografico1-20211021T214552Z-001\proyectografico1\proyectografico1\obj\Debug\proyectografico1.pdb
